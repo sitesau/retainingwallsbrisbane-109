@@ -1,0 +1,22 @@
+{
+  "wheel_id": 687,
+  "structure": "umbrella",
+  "slug": "retainingwallsbrisbane-109",
+  "project": "retaining-wall-builders-brisbane-how-to-choose-8d015fd7d75da7c9",
+  "parent_t1_ref": "retainingwallsbrisbane-154",
+  "node_role": "feeder",
+  "money_target": "retainingwallsbrisbane.net.au",
+  "primary_kw": "retaining wall builders brisbane how to choose",
+  "intended_url": "https://aumedia.neocities.org/retaining-wall-builders-brisbane-how-to-choose-8d015fd7d75da7c9/",
+  "tier": "T2",
+  "writeback_nonce": "5ebbd1ecc6ccd8dc",
+  "links": [
+    {
+      "target_url": "http://retaining-wall-builders-brisbane-cost-guide-f2be0251ecd88501768.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "Retaining Wall Builders Brisbane Cost Guide: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
